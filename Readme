@@ -1,0 +1,7 @@
+#this is tester will help u to check the size and the capacity of your vector (for now),
+
+#how to work with it
+
+#first u need to include the path of your vetor header file in (vector_tester.cpp) and then run it by typing make vector
+
+#if u find an error don't hesitate to contact me about it, 
